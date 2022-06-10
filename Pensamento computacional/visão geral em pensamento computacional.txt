@@ -1,0 +1,83 @@
+Pensamento computacional
+
+formulação e resolução de problemas
+
+
+          Sistemático e Eficiente
+
+---------------------------------------
+
+OVerView
+
+Dividr um problema complexo em subproblemas
+
+Decomposição 
+
+Divisão de Vetores 
+------------------------------------------
+
+Reconhecimento de padrões
+
+Identificar padrões ou tendências
+Similaridades e diferençãs entre os problemas
+
+-----------------------------------------------
+
+Abstraçãp
+
+Extrapolar o confeito do problema para uma forma
+generalista
+
+-classes
+-Métodos
+-Herança
+-Polimorfismo
+
+----------------------------------------------------
+
+Design de Algoritmos
+
+Automatizar 
+
+
+Definir passoa a passo a solução do problema.
+
+
+Input---- operator-----Output
+
+------------------------------------------------
+
+Processo Contínuo
+
+Definir uma Solução
+
+Aperfeiçoamento da solução encontrada
+
+
+
+Análise
+
+Refinamento
+
+Teste
+
+----------------------------------------
+
+Raciocionio Logico
+
+Refinamento- - - - - - Decomposição
+
+Algoritmos- - - - - - - Padrões
+
+- - -  -- - - Abstração- - - - - - -
+
+--------------------------------------------
+
+Competências
+
+Pensamento Sistemático
+Colaboração dentro da equipe
+Criatividade e design
+Facilitador
+
+

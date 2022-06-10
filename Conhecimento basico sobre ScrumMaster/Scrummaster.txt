@@ -1,0 +1,35 @@
+Desafios de desenvolvimento do software
+
+O Principio de pareto tambem se aplica ao desenvolvimento de
+software, onde 20% das funcionalidades costumam gerar 80% ou
+do beneficio esperado.
+
+------------------------------------------------------------------
+Gestão de projeto tradicional X Ágil
+
+
+tradicional
+ Escopo definido na fase inicial do projeto 
+(Preditivo)
+Projeto é controlado por fases e marcos.
+Cliente só vê o software funcionando na fase final do projeto
+resistencias de Mudanças.
+---------------------------------------------------------
+Agil
+Escopo definido ao longo do projeto
+(Adptativo).
+Projeto é controlado por funcionalidades entregues.
+Cliente pode ver parte do software funcionando na parte inicial
+do proejeto.
+Mudanças constantes de acordo com feedbacks continuos.
+-------------------------------------------------------------------
+ Product Owner (PO)
+O product owner (po) representa o profissional que tem 
+a visão do que sera desenvolvido, as necessidades a serem
+atendidas, o público que vai utitlizar os serviços e os objeticoa
+a serem alcançados
+
+Scrum Master (SM)
+
+Time de desenvolvimento
+(DEV)

@@ -1,0 +1,46 @@
+Dir - listar
+Cd - avançar a pasta
+cd.. retroceder 
+mkdir - crianção de pasta
+cls - para limpar
+del/- limpeza de arquivos
+rmdir - Excluir Pasta Junto dos arquivos
+
+---------------------------------------------------------------------
+                           Git
+
+SHA1  é um conjuto de funções de has criptográficas projetadas pela
+NSA (Agência de Segurança Nacional dos EUA)
+
+
+
+a incriptação gera conjuto de characteres identificador de 40 digitos
+
+É uma forma curta de apresentar um arquivo
+
+echo "ola mundo"
+ 
+
+ openssl sha1 (Arquivo)
+-----------------------------------------------------------
+
+* BloBs
+\0 String ou arquivo 
+Conteudo Textou ou Binario
+* Tree
+\0
+armazenam Blobs
+* Commit
+aponta para uma arvore
+para uma autor 
+para um parente
+timestamp = carimbo de tempo
+----------------------------------------------------------
+Chaves SSH
+ token - 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
+-----------------------------------------------------
+
+Untracked - Unmodified - Modified - Staged
+
+
+
